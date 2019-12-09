@@ -12,7 +12,7 @@
 
 > AndroidManifest.xml文件内容
 >
-> ```java
+> ```xml
 > <?xml version="1.0" encoding="utf-8"?>
 > <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 >     package="com.example.sdcard">
